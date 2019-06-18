@@ -13,7 +13,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://jonathangarrido.github.io/the-net-ninja-context-hooks",
+  "homepage": ".",
   "eslintConfig": {
     "extends": "react-app"
   },
